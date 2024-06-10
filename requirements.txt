@@ -1,0 +1,12 @@
+transformers
+datasets==1.16
+torch
+accelerate
+PyYAML
+jinja2
+pandas
+numpy
+tqdm
+sentencepiece
+scikit-learn
+protobuf==3.20.0
