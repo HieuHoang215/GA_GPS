@@ -1,0 +1,3 @@
+dataset: super_glue
+subset: wsc.fixed
+templates: {}
